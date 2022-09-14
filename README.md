@@ -2,6 +2,8 @@
 
 Em 8 de setembro, a monarca com o reinado mais longo da história britânica faleceu aos 96 anos. De forma mais direta, como uma personagem central da obra, ou como uma referência do contexto, Rainha Elizabeth II esteve presente em diversas criações artísticas ao longo dessas décadas. Com isso, a Central de Jornalismo de Dados do O POVO (DATADOC) raspou páginas do IMDB com buscas por títulos de séries, filmes e documentários que fazem referência a ela.
 
+A matéria ["Confira séries, vídeos e documentários com referência à Rainha Elizabeth II"](https://mais.opovo.com.br/reportagens-especiais/2022/09/13/confira-series-videos-e-documentarios-com-referencia-a-rainha-elizabeth-ii.html), feita a partir dos dados presentes nesse repositório, pode ser lida no **O POVO+**, plataforma multistreaming de Jornalismo do **O POVO**.
+
 ---
 
 
